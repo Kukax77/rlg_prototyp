@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "538857911418",
+    "project_id": "real-life-grind-4f6df",
+    "storage_bucket": "real-life-grind-4f6df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538857911418:android:660d87d9eae209fc7177c3",
+        "android_client_info": {
+          "package_name": "com.example.rlg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCNsOPcjnDjOb8VZWdpTnbUk7w7MjJbPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
